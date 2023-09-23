@@ -1,5 +1,4 @@
-
-#Real Time Weather App ⭐
+Real Time Weather App ⭐
 
 ![Real Time Manager app ss](https://github.com/divyansh369/Real-Time-Weather-App/blob/main/assets/screenshots/Screenshot%20(91).png)
 
