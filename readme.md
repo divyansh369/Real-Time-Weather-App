@@ -1,6 +1,9 @@
 
 #Real Time Weather App ⭐
 
+![Real Time Manager app ss](https://github.com/divyansh369/Real-Time-Weather-App/blob/main/assets/screenshots/Screenshot%20(91).png)
+
+
 Real Time Weather App is a **HTML, CSS, Javascript ** based application designed provides up-to-date and accurate weather information to users
 
 
@@ -10,7 +13,6 @@ Real Time Weather App is a **HTML, CSS, Javascript ** based application designed
 
 <br/>
 
-![Real Time Manager app ss](https://github.com/divyansh369/Real-Time-Weather-App/blob/main/assets/screenshots/Screenshot%20(91).png)
 
 <br/>
 
