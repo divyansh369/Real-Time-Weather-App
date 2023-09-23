@@ -3,9 +3,11 @@
 
 Real Time Weather App is a **HTML, CSS, Javascript ** based application designed provides up-to-date and accurate weather information to users
 
+
 ## 💻 Live Demo:
 
 👉👉https://real-time-weather-app-eta.vercel.app/
+
 
 ![File Manager app ss](https://github.com/divyansh369/Real-Time-Weather-App/blob/main/assets/screenshots/Screenshot%20(91).png)
 
@@ -17,6 +19,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 * ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
 
 ## ✨ Getting Started
@@ -126,7 +129,6 @@ Special thanks to the authors and contributors of these technologies for their v
 ---
 
 
-https://github.com/divyansh369/File-sharing/assets/71817815/515b5618-808f-432c-b35b-ea70c19492ab
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
