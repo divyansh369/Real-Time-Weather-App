@@ -58,10 +58,8 @@ The project structure is as follows:
    * `api.js:` This file contains how api calls
    * `app.js:` This file contains how the search works 
 
-     
 ---
 
-<br/>
 
 ## Contributing 
 Contributions are welcome! 
