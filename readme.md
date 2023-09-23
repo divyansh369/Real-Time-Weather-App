@@ -11,10 +11,6 @@ Real Time Weather App is a **HTML, CSS, Javascript ** based application designed
 
 👉👉https://real-time-weather-app-eta.vercel.app/
 
-<br/>
-
-
-<br/>
 
 
 ### Built With 🏗️
@@ -25,7 +21,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-
+<br/>
 
 ## ✨ Getting Started
 
@@ -33,6 +29,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - Then, under the `assets` directory, go to `assets/api.js` and replace `api_key` with your OpenWeatherMap API Key.
   - **`assets/api.js`**: It contains the code related to the api of the application.
 
+<br/>
 
 ## Installation ⚒ 
 
@@ -50,52 +47,9 @@ Follow these steps to set up the application:
    cd Real-Time-Weather-App
    ```
 
+<br/>
 
-## Get Started 📕
-
-To run the To-Do List App, perform the following actions:
-
-1. Open a new PowerShell window.
-
-2. Start the MongoDB:
-
-   ```bash
-   mongodb
-   ```
-
-3. Open another PowerShell window.
-
-4. Launch the MongoDB shell:
-
-   ```bash
-   mongoose
-   ```
-
-5. Open another PowerShell window and Navigate to the project directory:
-
-   ```bash
-   cd File-sharing
-   ```
-
-6. Start the application using nodemon:
-
-   ```bash
-   nodemon .\server.js
-   ```
-
-7. Open a web browser and navigate to [localhost:3000](http://localhost:3000) to access the application. Use [localhost:3000](http://localhost:3000) and whatever you want to create on file sharing app.
-
-## Usage
-* __Home Page (http://localhost:3000):__ This is the default page that shows the file sharing front page. 
-You can send file by uploading the file or drag and drop the file from your local computer.
-
-* __QR Scan:__ You can scan the qr code by which you can get the generated link for the uploaded file
-
-* __Email :__ user can send the file to any email the user wants to .
-
-* __About Page (http://localhost:3000):__ This page give the user interface to interact with file sharing app.
-
-## Project Structure
+## Project Structure 📕
 The project structure is as follows:
 
 * `index.html:` The contains the frontend of the web application.
@@ -107,6 +61,8 @@ The project structure is as follows:
 
      
 ---
+
+<br/>
 
 ## Contributing 
 Contributions are welcome! 
